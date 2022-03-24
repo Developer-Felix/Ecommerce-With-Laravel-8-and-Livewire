@@ -19,3 +19,9 @@
 
 ## Shop Screen
 <img src="screenshots/Shop Screen.png" style="width:100%" alt="home screen"/>
+
+## About Screen
+<img src="screenshots/About Screen.png" style="width:100%" alt="home screen"/>
+
+## Contact Screen
+<img src="screenshots/Contact Screen.png" style="width:100%" alt="home screen"/>
