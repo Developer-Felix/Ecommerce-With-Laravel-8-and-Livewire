@@ -9,19 +9,19 @@
 
 
 ## Home Screen
-<img src="screenshots/home screen.png" style="width:100%" alt="home screen"/>
+<img src="screenshots/homescreen.png" style="width:100%" alt="home screen"/>
 
 ## Cart Screen
-<img src="screenshots/Cart Screen.png" style="width:100%" alt="Cart Screen"/>
+<img src="screenshots/CartScreen.png" style="width:100%" alt="Cart Screen"/>
 
 ## Checkout Screen
-<img src="screenshots/Checkout Screen.png" style="width:100%" alt="Checkout Screen"/>
+<img src="screenshots/CheckoutScreen.png" style="width:100%" alt="Checkout Screen"/>
 
 ## Shop Screen
-<img src="screenshots/Shop Screen.png" style="width:100%" alt="Shop Screen"/>
+<img src="screenshots/ShopScreen.png" style="width:100%" alt="Shop Screen"/>
 
 ## About Screen
-<img src="screenshots/About Screen.png" style="width:100%" alt="About Screen"/>
+<img src="screenshots/AboutScreen.png" style="width:100%" alt="About Screen"/>
 
 ## Contact Screen
-<img src="screenshots/Contact Screen.png" style="width:100%" alt="Contact Screen"/>
+<img src="screenshots/ContactScreen.png" style="width:100%" alt="Contact Screen"/>
