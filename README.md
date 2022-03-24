@@ -12,16 +12,16 @@
 <img src="screenshots/home screen.png" style="width:100%" alt="home screen"/>
 
 ## Cart Screen
-<img src="screenshots/Cart Screen.png" style="width:100%" alt="home screen"/>
+<img src="screenshots/Cart Screen.png" style="width:100%" alt="Cart Screen"/>
 
 ## Checkout Screen
-<img src="screenshots/Checkout Screen.png" style="width:100%" alt="home screen"/>
+<img src="screenshots/Checkout Screen.png" style="width:100%" alt="Checkout Screen"/>
 
 ## Shop Screen
-<img src="screenshots/Shop Screen.png" style="width:100%" alt="home screen"/>
+<img src="screenshots/Shop Screen.png" style="width:100%" alt="Shop Screen"/>
 
 ## About Screen
-<img src="screenshots/About Screen.png" style="width:100%" alt="home screen"/>
+<img src="screenshots/About Screen.png" style="width:100%" alt="About Screen"/>
 
 ## Contact Screen
-<img src="screenshots/Contact Screen.png" style="width:100%" alt="home screen"/>
+<img src="screenshots/Contact Screen.png" style="width:100%" alt="Contact Screen"/>
