@@ -9,4 +9,4 @@
 
 
 ##Home Screen
-<img src="screenshots/home screen.png" style="width:100%" alt="Er Diagram"/>
+<img src="screenshots/home screen.png" style="width:100%" alt="home screen"/>
