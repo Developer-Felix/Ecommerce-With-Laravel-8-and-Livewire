@@ -8,5 +8,14 @@
 </p>
 
 
-##Home Screen
+## Home Screen
 <img src="screenshots/home screen.png" style="width:100%" alt="home screen"/>
+
+## Cart Screen
+<img src="screenshots/Cart Screen.png" style="width:100%" alt="home screen"/>
+
+## Checkout Screen
+<img src="screenshots/Checkout Screen.png" style="width:100%" alt="home screen"/>
+
+## Shop Screen
+<img src="screenshots/Shop Screen.png" style="width:100%" alt="home screen"/>
