@@ -48,7 +48,9 @@ Primary use:    Ecommerce
 
 -------------------------------------------------------------------*/
 
-
+.text-red-600{
+    color:red;
+}
 
 body{
 	font-family: 'Open Sans', sans-serif;

@@ -25,3 +25,9 @@
 
 ## Contact Screen
 <img src="screenshots/ContactScreen.png" style="width:100%" alt="Contact Screen"/>
+
+## Login Screen
+<img src="screenshots/LoginScreen.png" style="width:100%" alt="Login Screen"/>
+
+## Register Screen
+<img src="screenshots/RegisterScreen.png" style="width:100%" alt="Register Screen"/>
